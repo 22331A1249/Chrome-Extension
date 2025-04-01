@@ -8,4 +8,4 @@ Company : KANAKALA SAI
 
 "Duration" : 4 Weeks
 
-"Mentor" : Neela Santhosh
+"Mentor" : Neela Santhosh Kumar
